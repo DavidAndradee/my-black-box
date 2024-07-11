@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "titulo": "O labirinto do Logcat",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
+        "link": "https://www.youtube.com/embed/ypvGqZGJBls",
+        "categoria": "Anime"
+    },
+    {
+        "id": 2,
+        "titulo": "Um componente no espaço",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
+        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ",
+        "categoria": "Comédia"
+    },
+    {
+        "id": 3,
+        "titulo": "O poderoso JavaScript",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
+        "link": "https://www.youtube.com/embed/N1BSG02z-Mw",
+        "categoria": "Série"
+    },
+    {
+        "id": 4,
+        "titulo": "Dart, o Caçador de Andróides",
+        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
+        "link": "https://www.youtube.com/embed/LLmBWjF6F8M",
+        "categoria": "Anime"
+    },
+    {
+        "id": 5,
+        "titulo": "BALESTRIN TEM UM NOVO DESAFIO PARA O KAIQUE - QUANTOS KG ELE GANHOU ???",
+        "capa": "https://i.pinimg.com/236x/c5/14/a3/c514a334f3c9cca6341e18a4fbd8863f.jpg",
+        "link": "https://www.youtube.com/embed/UOF3dSr7f2o?si=H3xYMG_8ldnUN5wv",
+        "categoria": "Maromba"
+    },
+    {
+        "id": 6,
+        "titulo": "Sou Mochileiro [Documentário Completo]",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-GGpvCRbJi7Pmrkv2acpytJ_es4q6Id-JjA&s",
+        "link": "https://www.youtube.com/embed/yUoyhGaEUwM?",
+        "categoria": "Variados"
+    }
+]

@@ -1,0 +1,23 @@
+.box{
+    background-color: var(--cinza);
+    box-shadow: 5px 5px 20px var(--branco);
+    color: var(--branco);
+    text-align: center;
+    border-radius: 25px;
+}
+
+.box p{
+    background-color: var(--preto);
+    padding: 8px;
+    border-radius: 25px;
+}
+
+dialog{
+    position: absolute;
+    top: 800px;
+    left: 900px;
+}
+
+overlay{
+    background-color: rgb(0, 0, 0, 00.6);
+}

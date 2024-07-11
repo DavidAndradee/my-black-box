@@ -1,0 +1,17 @@
+.categoria{
+    text-align: center;
+    padding: 20px;
+    margin: 15px 0 ;
+    border-radius: 60px;
+    box-shadow: 5px 5px 50px var(--verde);
+}
+
+.categoria h3{
+    font-size: 32px;
+    border-bottom: 4px solid var(--branco);
+    display: inline-block;
+    padding-bottom: 8px;
+    color: var(--branco);
+    padding: 12px;
+    border-radius: 25px;
+}
